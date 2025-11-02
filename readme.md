@@ -10,7 +10,7 @@
 
 **A novel deep learning architecture for robust Human Activity Recognition from wearable sensor data**
 
-[Paper](https://arxiv.org/abs/2501.xxxxx) | [Demo](https://colab.research.google.com/drive/xxx) | [Documentation](https://mst-conformer.readthedocs.io)
+[Paper](https://arxiv.org/abs/2501.xxxxx) | [Demo](https://colab.research.google.com/drive/xxx) | [Documentation](https://mst-conformer.readthedocs.io) | [Deployment] |
 (To be Updated soon)
 </div>
 
