@@ -11,7 +11,7 @@
 **A novel deep learning architecture for robust Human Activity Recognition from wearable sensor data**
 
 [Paper](https://arxiv.org/abs/2501.xxxxx) | [Demo](https://colab.research.google.com/drive/xxx) | [Documentation](https://mst-conformer.readthedocs.io)
-
+(To be Updated soon)
 </div>
 
 ---
@@ -347,14 +347,14 @@ python visualize.py
 
 ## Model Zoo
 
-### Pretrained Checkpoints
+### Pretrained Checkpoints ( To be updated soon )
 
 | Model | Dataset | Accuracy | Download |
 |-------|---------|----------|----------|
-| MST-Conformer-Base | UCI-HAR | 97.60% | [checkpoint](https://drive.google.com/xxx) |
-| MST-Conformer-Base | PAMAP2 | 98.40% | [checkpoint](https://drive.google.com/xxx) |
-| MST-Conformer-Base | UniMiB-SHAR | 98.80% | [checkpoint](https://drive.google.com/xxx) |
-| MST-Conformer-Large | UCI-HAR | 97.85% | [checkpoint](https://drive.google.com/xxx) |
+| MST-Conformer-Base | UCI-HAR | 97.60% | [checkpoint](https://drive.google.com/) |
+| MST-Conformer-Base | PAMAP2 | 98.40% | [checkpoint](https://drive.google.com/) |
+| MST-Conformer-Base | UniMiB-SHAR | 98.80% | [checkpoint](https://drive.google.com/) |
+| MST-Conformer-Large | UCI-HAR | 97.85% | [checkpoint](https://drive.google.com/) |
 
 ### Load Pretrained Model
 
